@@ -1,0 +1,42 @@
+# NuaRts — Non-Destructive & Reversible Urban Mounting System
+
+## 📌 Project Overview
+The **NuaRts** project (developed under the **Fu-Hum** organization) provides a reversible and metabolic urban infrastructure. This system enables the installation of bio-energetic and modular panels on urban facades, metallic structures, and blind walls without altering or damaging the original building fabric.
+
+---
+
+## 🛠 Technical Specifications
+
+### 1. Mounting Interface
+* **Mechanism:** Adjustable fluid sub-layer and a network of shape-memory reversible micro-suction cups.
+* **Host Surface:** Conforms mechanically to altered wall contours (stone, concrete, damaged plaster, brick).
+* **Protection:** Vibration damping and full cancellation of direct shear stress on the wall surface.
+
+### 2. Load-Bearing Structure
+* **Chassis:** Self-supporting telescopic frame made of low-carbon aluminum or cellulosic composite.
+* **Safety:** Load distribution via fine-pitch jacks and passive anti-drop tethering using high-tenacity aramid fiber.
+
+### 3. Monitoring & Predictive Maintenance
+* **Integrated Sensors:** Dorsal instrumentation monitoring deformation, pressure, and humidity in real time through material transparency.
+* **Maintenance:** Gentle cleaning protocol using dry ice sublimation (carbon dioxide cleaning).
+
+---
+
+## 📊 Key Performance Indicators (KPI)
+
+| Parameter | Technical Specification |
+| :--- | :--- |
+| **Mounting Modes** | Reversible micro-suction, adjustable compression, textile guy-wiring |
+| **Removal Time** | Full reversibility within **48 hours** |
+| **Structural Impact** | **0%** drilling, **0%** destructive chemical adhesives |
+| **Predictive Monitoring** | Real-time dorsal sensor telemetry |
+| **Nominal Durability** | **10-year** operational lifecycle |
+
+---
+
+## 📂 Repository Structure
+
+---
+
+## 📜 License
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
