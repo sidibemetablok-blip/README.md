@@ -1,0 +1,21 @@
+# 🍜 RPCE — Entropic Control Pasta Reactor
+
+![Build Status](https://img.shields.io/badge/Build-Passed-brightgreen)
+![Entropy State](https://img.shields.io/badge/Entropy-Stabilized-blue)
+![Safety Standard](https://img.shields.io/badge/CEI-60335--2--25-certified)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
+> **"The definitive end to culinary disasters: bringing quantum physics precision to everyday starch cooking."**
+
+---
+
+## 📌 Project Overview
+
+The **RPCE** (*Entropic Control Pasta Reactor*) is an open-hardware and firmware framework designed to eliminate the risks of wild pyrolysis and fires during starch microwave cooking in closed environments.
+
+Instead of responding with oversimplified warnings or frustrating error messages, the RPCE utilizes an infrared feedback loop and a piezoelectric injector to maintain entropy variation ($\Delta S$) strictly below the critical carbonization threshold.
+
+---
+
+## 🏗️ System Architecture
+
