@@ -1,0 +1,49 @@
+# 💡 Smart Public Ground Lighting & Biosourced Guidance
+
+> **Système d'éclairage urbain encastré au sol, guidage écoresponsable par panneaux biosourcés et respect absolu de l'anonymat citoyen.**
+
+---
+
+## 📌 Présentation du Projet
+
+Ce projet propose une nouvelle approche de la signalétique et de l'éclairage dans les espaces publics :
+1. **Éclairage au sol intelli-lumineux :** Intégration d'ampoules/modules LED encastrés au sol pour baliser efficacement les flux piétons et routiers sans pollution lumineuse verticale.
+2. **Signalétique Biosourcée :** Utilisation de panneaux d'orientation fabriqués à partir de matériaux biosourcés à faible empreinte carbone et haute durabilité.
+3. **Anonymat & Privacy by Design :** Suivi des flux et gestion de la présence basés sur des capteurs physiques ou télémétriques sans aucune collecte de données personnelles ni reconnaissance biométrique/visuelle.
+
+---
+
+## 🎯 Piliers Techniques & Philosophiques
+
+* **🔒 Anonymat Garanti (Zero-Data Harvesting) :** Détection de présence passive (pression, infrarouge, optique basique sans enregistrement vidéo). Aucune donnée identifiable n'est stockée ni transmise.
+* **🌱 Éco-conception & Matériaux Biosourcés :** Supports de signalisation et châssis conçus en composites cellulosiques ou dérivés végétaux réversibles et durables.
+* **⚡ Efficacité Énergétique :** Éclairage dynamique au sol ajusté au passage réel des usagers pour réduire l'empreinte énergétique globale.
+* **🛣️ Respect de la Voie & Sécurité :** Balisage visuel direct au sol favorisant l'ergonomie spatiale et la prévention des accidents en milieu urbain.
+
+---
+
+## 🏗️ Architecture du Système
+
+
+---
+
+## 🚀 Commencer / Contribution
+
+Le projet est en phase d'open-design et de prototypage. Toutes les contributions (ingénierie matérielle, modélisation 3D, électronique, documentation) sont les bienvenues !
+
+### Comment contribuer ?
+1. **Forker** le dépôt.
+2. Créer une branche (`git checkout -b feature/AmeliorationDesign`).
+3. **Committer** vos modifications (`git commit -m 'Ajout module capteur pas-à-pas'`).
+4. **Pusher** vers la branche (`git push origin feature/AmeliorationDesign`).
+5. Ouvrir une **Pull Request**.
+
+---
+
+## 💬 Mots-clés / Topics
+`smart-city` • `privacy-by-design` • `biosourced-materials` • `urban-lighting` • `open-hardware` • `sustainability`
+
+---
+
+## 📄 Licence
+Ce projet est sous licence [MIT]- libre de réutilisation et d'adaptation.
