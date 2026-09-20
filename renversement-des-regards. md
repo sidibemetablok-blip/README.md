@@ -1,0 +1,32 @@
+# Le Renversement des Regards
+> **Concept d'éclairage urbain adaptatif, albédo dirigé et perception haptique**
+
+---
+
+## 📌 Présentation du Projet
+
+*Le Renversement des Regards* est un exercice d'architecture et d'ingénierie urbaine qui inverse la polarité de l'éclairage public traditionnel. En orientant une lumière bio-sourcée et contrôlée vers les façades et bordures, le projet substitue à la projection directe une clarté diffuse par albédo, respectueuse des normes de sécurité et de la vision humaine.
+
+---
+
+## 💡 Les 4 Piliers du Manifeste
+
+1. **Le Soleil comme Boussole :** La lumière n'est pas un simple faisceau mais un guide d'orientation sensoriel inspiré des cycles naturels.
+2. **L'Albédo Corrigé :** Un rayon strictement cadré aux normes, éliminant tout halo ou brouillard parasite, où le matériau de bordure devient le diffuseur optique.
+3. **La Captation d'Intention :** Un réseau de trottoirs réactifs qui lisent le rythme piéton pour adapter la focalisation sans éblouir.
+4. **L'Interface Véhicule-Environnement :** À 50 mètres, l'IA du véhicule dialogue avec l'infrastructure. Le pare-brise traduit la détection piétonne par un clignotement évoquant la transition du midi au coucher du soleil.
+
+---
+
+## 📂 Organisation de la Documentation
+
+* [📜 01. Manifeste Théorique & Philosophie](docs/01_Manifeste_Theorique.md)
+* [🔬 02. Spécifications Optiques & Albédo](docs/02_Optique_et_Albedo.md)
+* [🚶‍♂️ 03. Captation d'Intention sur Trottoir](docs/03_Captation_Intention.md)
+* [🚘 04. Interaction Véhicule & Pare-Brise HUD](docs/04_Interface_Vehicule.md)
+
+---
+
+## 📜 Licence
+
+Ce projet est sous licence **Creative Commons Attribution 4.0 International (CC-BY-4.0)**.
