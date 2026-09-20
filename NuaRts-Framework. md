@@ -1,0 +1,38 @@
+# NuaRts — Adaptative Neutral Suspension & 4D Spatial Mapping
+
+> **L'élasticité comme un art météo : relier le sol à l'espace par une suspension adaptative, sobre et génératrice d'énergie.**
+
+## 🌌 Aperçu du Projet
+
+**NuaRts** est un écosystème technologique reliant l'éclairage urbain sobre à l'observation satellitaire 4D. Il repose sur le concept de **Corde Neutre** : une structure d'accroche insensible aux dégradations atmosphériques, capable de convertir les micro-oscillations du vent en énergie et de servir de filtre pour l'observation spatiale à l'échelle microscopique.
+
+## 🛠️ Composants Clés
+
+1. **Corde Neutre & Élastique :**
+   * Tressage aramide fluoré à dilatation thermique quasi-nulle.
+   * Gaine à captage piézo/triboélectrique convertissant les vibrations en électricité.
+   * Anti-résonance dynamique évitant les allées de Von Kármán.
+
+2. **Module de Suspension au Sol :**
+   * Éclairage LED directionnel ultra-sobre annulant la pollution lumineuse.
+   * Revêtement photocatalytique ($TiO_2$) activé par la lumière pour la dépollution de l'air ($NO_x$, $COV$).
+   * Ancrage adaptatif à gradient de rigidité.
+
+3. **Cartographie Spatial 4D :**
+   * Filtrage du bruit mécanique par la corde neutre permettant un alignement optique satellite microscopique.
+   * Suivi dynamique temporel ($X, Y, Z + t$) des déformations du sol et des flux atmosphériques.
+
+## 📐 Modèle Physique
+
+Le comportement de la corde sous l'effet du vent est régi par l'équation d'équilibre d'une caténaire élastique à rigidité variable :
+
+$$T(s) = \sqrt{T_0^2 + (w \cdot s + F_{\text{vent}}(s))^2}$$
+
+Où $T_0$ représente la tension initiale d'ancrage, $w$ la masse surfacique et $F_{\text{vent}}$ la force aérodynamique dynamique.
+
+## 🚀 Commencer
+
+Consultez le dossier `/docs` pour accéder aux fiches techniques détaillées de chaque sous-système.
+
+---
+*Projet développé sous philosophie Open Science & Sobriété Énergétique.*
