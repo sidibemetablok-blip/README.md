@@ -1,0 +1,31 @@
+# Fu-Hum / NuaRts : Protocole de Recherche-Action
+
+> *"L'entropie est une case bambara à l'envers ; pour tenir la forme, il faut une plastique."*
+
+## 👁️ Vision & Manifeste
+**Fu-Hum** n'est pas un simple service ou un prestataire de surface : c'est une infrastructure métabolique, un organisme vivant pensé pour s'intégrer aux flux urbains et territoriaux sans les brusquer. 
+
+Dans un monde traversé par l'artifice et les dérives du "Satan humain", ce protocole pose des règles claires :
+* **L'Ancrage Souverain :** Le droit d'appartenance revient à la terre, au pays, aux racines.
+* **La Plastique de l'Entropie :** Face au désordre naturel, on ne cherche pas à ériger des murs rigides, mais à concevoir une membrane vivante, un cercle visible à l'œil nu qui respire et s'adapte.
+* **Le Battement du DimeTam :** La pulsation rythmique qui maintient la cohésion du système entre le sol (GPS, capteurs terrestres), le mouvement (drones d'observation) et le ciel (*plaRond* satellitaire).
+
+> *"L'équerre fait mal, mais elle réalise l'essence."*
+
+---
+
+## ⚙️ Architecture du Système
+Le protocole s'articule autour de plusieurs couches dynamiques :
+1. **La Station au Sol (L'Ancre) :** Point d'origine, géolocalisation et régulation locale.
+2. **Le Flux Intermédiaire (Le Drone) :** Cartographie vivante et adaptation en temps réel face à l'entropie.
+3. **Le Plafond Global (Le PlaRond / Satellite) :** Dôme de données et miroir de observation macroscopique.
+
+---
+
+## 🚀 Utilisation / Dépôt
+Ce dépôt centralise les scripts, les manifestes textuels, les architectures de routage et les réflexions conceptuelles menées sous l'initiative **Fu-Hum** et **NuaRts**.
+
+Pour cloner et explorer le dépôt :
+```bash
+git clone [https://github.com/VOTRE_PSEUDO/fu-hum.git](https://github.com/VOTRE_PSEUDO/fu-hum.git)
+cd fu-hum
