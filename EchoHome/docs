@@ -1,0 +1,25 @@
+ ​🌿 Vision
+​EchoHome is an open-source project driven by the NuaRts ecosystem. It explores an alternative to cold, captive digital feeds by designing an intelligent, sovereign Family Logbook.
+​The goal: use AI not to lock users behind screens, but to weave connections, stimulate intergenerational curiosity, and bridge learning with the concrete world (nature, the city, craftsmanship, and the memory of elders).
+​🔄 The Rhythms of the Home (The Rituals)
+​The system revolves around four shared moments of daily life:
+​The Evening Capsule: A poetic and narrative synthesis of the day's fragments dropped by each family member.
+​The Real-World Explorers' Workshop: Weekend challenges and micro-adventures rooted in the local environment.
+​The Roots' Memory: Living archiving and transmission of intergenerational stories and know-how.
+​The Future Projects Journal: A monthly review and co-creation of upcoming goals and desires.
+​🛡️ Ethical Principles & Sovereignty
+​Intimacy & Home Vault: The logbook's data belongs exclusively to the family.
+​Digital Sobriety: A tool that knows when to step back, leaving space for human dialogue and physical exploration.
+​Maieutic Posture: The AI guides through clues and questioning rather than serving ready-made answers.
+​📄 License
+​This project is open-source under the MIT License.
+​📂 Repository Structure
+NuaRts-EchoHome/
+├── README.md               # Project manifesto, philosophy, and core rituals
+├── LICENSE                 # MIT License
+├── docs/                   
+│   ├── architecture.md     # Technical vision, multimodality, and data sovereignty
+│   ├── rituals.md          # Detailed description of the 4 rituals (Capsule, Weekend, Roots, Projects)
+│   └── ethics.md           # Anti-addiction charter and household privacy respect
+├── core/                   # Orchestration logic (prompts, logbook management engine)
+└── examples/               # Sample narrative syntheses or pedagogical challenges
