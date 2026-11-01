@@ -1,0 +1,23 @@
+{
+  "matrix_version": "1.0.0",
+  "protocol": "LocalTrace-Nav",
+  "description": "Mapping local supply points and community resources based on lived duration and real purchasing power.",
+  "nodes": [
+    {
+      "id": "node_01",
+      "name": "Marché de Proximité Local",
+      "type": "supply_point",
+      "resource_category": "fresh_goods",
+      "friction_modifier": 1.0,
+      "accessibility_status": "open"
+    },
+    {
+      "id": "node_02",
+      "name": "Centre de Quartier & Échange",
+      "type": "community_hub",
+      "resource_category": "collective_support",
+      "friction_modifier": 0.9,
+      "accessibility_status": "active"
+    }
+  ]
+}
