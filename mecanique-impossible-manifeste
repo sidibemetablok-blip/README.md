@@ -1,0 +1,16 @@
+# Mécanique Impossible & Cadre X/X'
+> "Refuser la rigidité stérile, concevoir des structures qui se décomposent pour mieux se réinventer."
+
+Ce dépôt héberge le manifeste officiel et les spécifications techniques de la **Mécanique Impossible**, un cadre conceptuel unifiant l'architecture cinétique, l'urbanisme métabolique et les modules de vol d'urgence à rupture contrôlée.
+
+## 📌 Piliers du Projet
+* **$X$ (Ancrage & Maintenance) :** Le socle matériel, la structure porteuse et la capacité d'auto-régénération.
+* **$X'$ (Force & Mouvement) :** L'impulsion cinétique, le vecteur de transformation et la rupture programmée.
+* **La Paumelle Bio-inspirée :** L'axe neutre inspiré de la rotation terrestre, permettant de canaliser l'énergie et de transformer la contrainte en liberté de mouvement.
+
+## 📂 Contenu
+* [`docs/manifeste-global.md`](docs/manifeste-global.md) : Le manifeste philosophique et structurel complet.
+* [`docs/specifications-mvu-spap.md`](docs/specifications-mvu-spap.md) : Spécifications techniques du Module de Vol d'Urgence (MVU) et du Système de Portance et d'Atterrissage Propulsé (SPAP).
+
+## 📄 Licence
+Distribué sous licence Creative Commons Attribution 4.0 International ([CC-BY-4.0](LICENSE)).
